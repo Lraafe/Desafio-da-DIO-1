@@ -1,5 +1,5 @@
 let hero = "Cleito Checha"
-let heroExp = 100000
+let heroExp = 3133
 
 if(heroExp < 1000) {
     console.log("O Herói de nome " + hero + " está no nível " + heroExp + " e sua classificação é Ferro")
